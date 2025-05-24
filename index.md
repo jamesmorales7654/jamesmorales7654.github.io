@@ -24,8 +24,6 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
