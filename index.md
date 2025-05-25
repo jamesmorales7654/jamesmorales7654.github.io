@@ -10,7 +10,9 @@ title: Cloud Solutions Architect Portfolio
 
 Cloud Solutions Architect with 15+ years of experience designing scalable infrastructure, automating deployments, and leading security initiatives across hybrid and AWS-native environments.
 
+
 💡 **Specializing in**: AWS · Terraform · Kubernetes (EKS) · GitOps · DevSecOps · CI/CD · Zero Trust Architecture
+
 
 > "Build for reliability. Automate for scale. Secure by design."
 
