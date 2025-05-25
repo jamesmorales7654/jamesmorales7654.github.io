@@ -4,7 +4,7 @@ title: Cloud Solutions Architect Portfolio
 ---
 
 <!-- Optional Banner -->
-<!-- <img src="banner.jpg" alt="Banner" style="width: 100%; border-radius: 6px;" /> -->
+<img src="banner.jpg" alt="Banner" style="width: 100%; border-radius: 6px;" />
 
 # 👋 Hi, I'm James Morales
 
@@ -17,7 +17,7 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 > "Build for reliability. Automate for scale. Secure by design."
 
 <!-- Optional Profile Picture -->
-<!-- ![Profile](profile.jpg) -->
+![Profile](profile.jpg)
 
 ---
 
