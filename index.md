@@ -6,13 +6,13 @@ title: Cloud Solutions Architect Portfolio
 <!-- Optional Banner -->
 <img src="banner.jpg" alt="Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 6px;" />
 
-# 🚀 Hi, I'm James A. Morales
+# 🚀 James Morales – Cloud Solutions Architect
+
+<img src="profile.jpg" alt="Profile photo" style="width: 140px; border-radius: 50%; margin-top: 1rem;" />
 
 Cloud Solutions Architect with 15+ years of experience designing scalable infrastructure, automating deployments, and leading security initiatives across hybrid and AWS-native environments.
 
-
 💡 **Specializing in**: AWS · Terraform · Kubernetes (EKS) · GitOps · DevSecOps · CI/CD · Zero Trust Architecture
-
 
 > "Build for reliability. Automate for scale. Secure by design."
 
