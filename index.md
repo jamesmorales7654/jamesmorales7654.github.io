@@ -17,7 +17,7 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 
 💡 **Specializing in**: AWS · Terraform · Kubernetes (EKS) · GitOps · DevSecOps · CI/CD · Zero Trust Architecture
 
-> "Build for reliability. Automate for scale. Secure by design."
+> "build for reliability. automate for scale. secure by design."
 
 ---
 
