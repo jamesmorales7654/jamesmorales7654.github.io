@@ -20,9 +20,6 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 
 > "Build for reliability. Automate for scale. Secure by design."
 
-<!-- Optional Profile Picture -->
-<img src="profile.jpg" alt="Profile photo" style="width: 140px; border-radius: 50%; margin-top: 1rem;" />
-
 ---
 
 ## 🛠️ Projects
@@ -30,8 +27,8 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
-    <h3><a href="https://github.com/jamesmorales7654/eks-prod-blueprint" target="_blank">eks-prod-blueprint</a></h3>
-    <img src="https://github.com/jamesmorales7654/eks-prod-blueprint/blob/main/architecture.png?raw=true" alt="EKS Architecture Diagram" style="max-width: 100%; border-radius: 8px; margin-bottom: 0.5rem;" />
+    <h3><a href="https://github.com/jamesmorales76564/eks-prod-blueprint" target="_blank">eks-prod-blueprint</a></h3>
+    <img src="https://github.com/jamesmorales76564/eks-prod-blueprint/blob/main/architecture.png?raw=true" alt="EKS Architecture Diagram" style="max-width: 100%; border-radius: 8px; margin-bottom: 0.5rem;" />
     <p>Production-ready EKS cluster using Terraform. Modular VPC, IAM roles, remote state (S3 + DynamoDB), and NAT gateway setup.</p>
   </div>
 
@@ -60,16 +57,15 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 
 ## 📄 Resume
 
-[Download My Resume](resume.pdf)  
-<!-- Upload your PDF to the repo root before this works -->
+📄 [Download My Resume](resume.pdf)
 
 ---
 
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/jamesmorales7654)
-- [LinkedIn](https://linkedin.com/in/jamesmorales7654) <!-- Update if needed -->
-- 📧 Email: [jmorales.io.query844@slmails.com](mailto:jmorales.io.query844@slmails.com) <!-- Replace with your real or alias email -->
+- [LinkedIn](https://linkedin.com/in/jamesmorales7654)
+- 📧 Email: [jmorales.io.query844@slmails.com](mailto:jmorales.io.query844@slmails.com)
 
 ---
 
