@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Cloud Solutions Architect Portfolio
 ---
 
 <!-- Banner image -->
@@ -27,8 +26,8 @@ Cloud Solutions Architect with 15+ years of experience designing scalable infras
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
-    <h3><a href="https://github.com/jamesmorales76564/eks-prod-blueprint" target="_blank">eks-prod-blueprint</a></h3>
-    <img src="https://github.com/jamesmorales76564/eks-prod-blueprint/blob/main/architecture.png?raw=true" alt="EKS Architecture Diagram" style="max-width: 100%; border-radius: 8px; margin-bottom: 0.5rem;" />
+    <h3><a href="https://github.com/jamesmorales7654/eks-prod-blueprint" target="_blank">eks-prod-blueprint</a></h3>
+    <img src="https://github.com/jamesmorales7654/eks-prod-blueprint/blob/main/architecture.png?raw=true" alt="EKS Architecture Diagram" style="max-width: 100%; border-radius: 8px; margin-bottom: 0.5rem;" />
     <p>Production-ready EKS cluster using Terraform. Modular VPC, IAM roles, remote state (S3 + DynamoDB), and NAT gateway setup.</p>
   </div>
 
