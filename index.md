@@ -3,12 +3,16 @@ layout: default
 title: Cloud Solutions Architect Portfolio
 ---
 
-<!-- Optional Banner -->
+<!-- Banner image -->
 <img src="banner.jpg" alt="Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 6px;" />
 
+<!-- Name and title -->
 # 🚀 James Morales – Cloud Solutions Architect
 
-<img src="profile.jpg" alt="Profile photo" style="width: 140px; border-radius: 50%; margin-top: 1rem;" />
+<!-- Profile photo -->
+<p align="center">
+  <img src="profile.jpg" alt="James Morales" style="width: 140px; border-radius: 50%; margin-top: 1rem;" />
+</p>
 
 Cloud Solutions Architect with 15+ years of experience designing scalable infrastructure, automating deployments, and leading security initiatives across hybrid and AWS-native environments.
 
