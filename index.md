@@ -6,7 +6,7 @@ layout: default
 <img src="banner.jpg" alt="Banner" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 6px;" />
 
 <!-- Name and title -->
-# 🚀 James Morales – Cloud Solutions Architect
+# 🚀 James A. Morales – Cloud Solutions Architect
 
 <!-- Profile photo -->
 <p align="center">
